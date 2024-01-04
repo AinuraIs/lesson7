@@ -1,0 +1,14 @@
+get clone link -
+
+git remote remove origin
+
+git branch показывает сколько веток есть и на какой ветке мы находимся
+
+git branch Ainura полная копия моего проекта
+
+git checkout name (название ветки) меняет
+
+git merge beka  перетягивает на другую ветку
+git pull
+
+
